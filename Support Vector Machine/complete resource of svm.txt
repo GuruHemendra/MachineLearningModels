@@ -1,0 +1,35 @@
+source :
+requires details explanation of how kernels get implemented and how kernel works
+
+
+youtube https://www.youtube.com/watch?v=XdcfJX-mDG4 [soft margin
+implementation]
+youtube https://www.youtube.com/watch?v=5egiXYde6PY&list=PLfFghEzKVmjvzS4DILijsdQk27Ew7xIPu&index=7 [hard margin implementation]
+
+youtube visualization explanation of kernels 
+https://www.youtube.com/watch?v=Q7vT0--5VII
+
+https://www.youtube.com/watch?v=3liCbRZPrZA
+
+https://www.youtube.com/watch?v=wBVSbVktLIY
+
+
+
+task:
+
+1) know about basic svm working 
+2) have understanding of -1 ,1 classes and developing of max margin
+3) constructing of cost function and hinge loss function
+4) implement the hard margin model
+6) understand the basic working of kernels
+7) how kernels work 
+8) advantage of kernels 
+9) when to use kernels
+10) does kernels only effect svm or other models
+11) kernel trick
+12) different kernel trick
+13) each kernel trick visualization and when should we select which.
+
+14) answer all the above question for the regression problem.
+
+
